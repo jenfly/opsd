@@ -1,2 +1,3 @@
-# opsd
-Pre-processing time series data from Open Power Systems Data
+# Open Power Systems Data
+
+Data pre-processing for time series blog post.
